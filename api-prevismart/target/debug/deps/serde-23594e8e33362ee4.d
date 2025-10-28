@@ -1,0 +1,14 @@
+/home/samyr/projects/clp/previSmart/backend/api-prevismart/target/debug/deps/serde-23594e8e33362ee4.d: /home/samyr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/samyr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/samyr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/samyr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/samyr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/samyr/projects/clp/previSmart/backend/api-prevismart/target/debug/build/serde-1d23b1b528bc7c0e/out/private.rs
+
+/home/samyr/projects/clp/previSmart/backend/api-prevismart/target/debug/deps/libserde-23594e8e33362ee4.rlib: /home/samyr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/samyr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/samyr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/samyr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/samyr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/samyr/projects/clp/previSmart/backend/api-prevismart/target/debug/build/serde-1d23b1b528bc7c0e/out/private.rs
+
+/home/samyr/projects/clp/previSmart/backend/api-prevismart/target/debug/deps/libserde-23594e8e33362ee4.rmeta: /home/samyr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/samyr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/samyr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/samyr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/samyr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/samyr/projects/clp/previSmart/backend/api-prevismart/target/debug/build/serde-1d23b1b528bc7c0e/out/private.rs
+
+/home/samyr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/samyr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/samyr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/samyr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/samyr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/samyr/projects/clp/previSmart/backend/api-prevismart/target/debug/build/serde-1d23b1b528bc7c0e/out/private.rs:
+
+# env-dep:OUT_DIR=/home/samyr/projects/clp/previSmart/backend/api-prevismart/target/debug/build/serde-1d23b1b528bc7c0e/out

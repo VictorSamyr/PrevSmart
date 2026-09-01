@@ -11,19 +11,28 @@ pub struct LoginResponsePayload {
     pub auth_token: String,
 }
 
-pub struct User {
-    pub id_usuario: i32,
-    pub tp_usuario: i32,
-    pub nome_usuario: String,
-    pub hash_senha_usuario: String,
+pub(crate) struct UserRecord {
+    pub(crate) id_usuario: i32,
+    pub(crate) tp_usuario: i32,
+    pub(crate) nome_usuario: String,
+    pub(crate) hash_senha_usuario: String,
 }
 
 #[derive(Serialize)]
-pub struct User_res {
+pub struct PublicUser {
     pub id_usuario: i32,
     pub tp_usuario: i32,
     pub nome_usuario: String,
-    pub hash_senha_usuario: String,
+}
+
+impl From<UserRecord> for PublicUser {
+    fn from(user: UserRecord) -> Self {
+        Self {
+            id_usuario: user.id_usuario,
+            tp_usuario: user.tp_usuario,
+            nome_usuario: user.nome_usuario,
+        }
+    }
 }
 
 #[derive(Clone)]
